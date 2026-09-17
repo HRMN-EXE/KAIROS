@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.kairos_two_rho.twa",
+    "sha256_cert_fingerprints": [
+      "70:15:EE:BD:8D:C0:B5:8D:D9:59:A8:63:54:C4:0E:1D:FA:52:BF:DD:50:4B:7C:4E:5B:5D:97:A2:DC:A2:54:D2"
+    ]
+  }
+}]
